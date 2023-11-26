@@ -42,7 +42,7 @@ body{
 }
 
 .loader .loading{
-    background: orange;
+    background: #fff;
     width: 30px;
     height: 30px;
     border-radius: 50px;
@@ -61,7 +61,6 @@ body{
 }
 
 .loader .loading.three{
-    background: green;
     animation-delay: 0.5s;
 }
 
