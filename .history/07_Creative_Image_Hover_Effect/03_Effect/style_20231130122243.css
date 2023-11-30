@@ -1,0 +1,16 @@
+body {
+    background: rgb (23, 23, 23);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.card {
+    position: relative;
+    width: 30rem;
+    width: 35rem;
+    background-color: black;
+    
+}
