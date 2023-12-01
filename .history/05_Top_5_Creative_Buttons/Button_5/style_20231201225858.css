@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background: #000;
+}
+
+a {
+    position: absolute;
+    direction: none;
+    text-transform: uppercase;
+    padding: 3rem 4rem;
+    background: #fff;
+    color: #000;
+    border-radius: 100p;
+}

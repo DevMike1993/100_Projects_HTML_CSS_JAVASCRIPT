@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+a {
+    padding: 2rem 3rem;
+    text-transform: uppercase;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 1.5rem;
+    position: relative;
+    text-decoration: none;
+}
+
+a::before {
+    content: "button";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    width: 100%;
+    background: crimson;
+    /* center our content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* let's provide our rotation/animation  */
+    transform:  rotate(270deg);
+    transform-origin: top;
+    transition: ;
+}
