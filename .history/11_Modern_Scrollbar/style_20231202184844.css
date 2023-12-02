@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-co
+    color: #fff;
+}
+
+.scroll-container {
+    background: rgb(7, 7, 7);
+    width: 25rem;
+    padding: 30px;
+}
