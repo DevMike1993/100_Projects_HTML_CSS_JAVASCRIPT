@@ -22,10 +22,9 @@ body {
 ::-webkit-scrollbar{
     background-color: transparent;
     width: 10px;
-    border: 2px dashed white;
 }
 
 ::-webkit-scrollbar-thumb{
-    background: linear-gradient(#3EECAC, #EE74E1, #0780f2);
+    background: linear-gradient() blue;
     border-radius: 100px;
 }

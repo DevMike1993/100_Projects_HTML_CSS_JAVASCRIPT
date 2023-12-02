@@ -22,7 +22,6 @@ body {
 ::-webkit-scrollbar{
     background-color: transparent;
     width: 10px;
-    border: 2px dashed white;
 }
 
 ::-webkit-scrollbar-thumb{
