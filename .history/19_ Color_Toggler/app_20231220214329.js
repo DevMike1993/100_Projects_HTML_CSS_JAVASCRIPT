@@ -1,0 +1,3 @@
+let toggler = document.getElementById('switch')
+
+toggler.addE

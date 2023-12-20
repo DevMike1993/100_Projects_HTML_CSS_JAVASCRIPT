@@ -1,0 +1,14 @@
+:root{
+    --primary-color: white;
+    --primary-label: black;
+    --secondary-label: white;
+    --white-ball: white;
+    --black-ball: black;
+}
+
+body {
+    background: var(--primary-color);
+    position: absolute;
+    top: 50%;
+    
+}
